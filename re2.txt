@@ -1,0 +1,12 @@
+e{3,}
+(ab)*
+ab*
+a|b*
+a*
+(abc|lmn|d)xy{2}z[a-z]
+c{3}
+d{2,4}
+[a-z]*
+a|(b*)
+ab(cd|efg(hij)?)+
+a|b|c

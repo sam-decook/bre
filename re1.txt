@@ -1,0 +1,1 @@
+[a-zA-Z_]+@gmail.(com|org|net)

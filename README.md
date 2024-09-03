@@ -1,0 +1,12 @@
+It supports:
+- concatenation
+- choice (`|`)
+- range (`[a-zBDXY]`)
+- groups (`( re )`)
+- repetition
+    - Kleene (`*`)
+    - one or more (`+`)
+    - optional (`?`)
+    - specified 
+        - (`{num}`)
+        - (`{min, [max]}`) (no max indicates any number)
